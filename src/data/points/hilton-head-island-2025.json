@@ -1,0 +1,76 @@
+{
+  "resortId": "hilton-head-island",
+  "year": 2025,
+  "travelPeriods": [
+    {
+      "id": "period-1",
+      "name": "Travel Period 1",
+      "dateRanges": [
+        { "start": "2025-01-01", "end": "2025-01-31" },
+        { "start": "2025-12-01", "end": "2025-12-17" }
+      ]
+    },
+    {
+      "id": "period-2",
+      "name": "Travel Period 2",
+      "dateRanges": [
+        { "start": "2025-02-01", "end": "2025-03-31" },
+        { "start": "2025-11-01", "end": "2025-11-30" },
+        { "start": "2025-12-18", "end": "2025-12-31" }
+      ]
+    },
+    {
+      "id": "period-3",
+      "name": "Travel Period 3",
+      "dateRanges": [
+        { "start": "2025-04-01", "end": "2025-06-10" },
+        { "start": "2025-08-28", "end": "2025-10-31" }
+      ]
+    },
+    {
+      "id": "period-4",
+      "name": "Travel Period 4",
+      "dateRanges": [
+        { "start": "2025-06-11", "end": "2025-08-27" }
+      ]
+    }
+  ],
+  "pointChart": [
+    {
+      "roomTypeId": "studio",
+      "seasons": {
+        "period-1": { "weekday": 6, "weekend": 12 },
+        "period-2": { "weekday": 10, "weekend": 15 },
+        "period-3": { "weekday": 14, "weekend": 23 },
+        "period-4": { "weekday": 15, "weekend": 27 }
+      }
+    },
+    {
+      "roomTypeId": "1br",
+      "seasons": {
+        "period-1": { "weekday": 14, "weekend": 19 },
+        "period-2": { "weekday": 20, "weekend": 29 },
+        "period-3": { "weekday": 27, "weekend": 44 },
+        "period-4": { "weekday": 31, "weekend": 52 }
+      }
+    },
+    {
+      "roomTypeId": "2br",
+      "seasons": {
+        "period-1": { "weekday": 20, "weekend": 23 },
+        "period-2": { "weekday": 24, "weekend": 36 },
+        "period-3": { "weekday": 33, "weekend": 56 },
+        "period-4": { "weekday": 41, "weekend": 66 }
+      }
+    },
+    {
+      "roomTypeId": "3br",
+      "seasons": {
+        "period-1": { "weekday": 27, "weekend": 39 },
+        "period-2": { "weekday": 47, "weekend": 60 },
+        "period-3": { "weekday": 59, "weekend": 95 },
+        "period-4": { "weekday": 71, "weekend": 111 }
+      }
+    }
+  ]
+}

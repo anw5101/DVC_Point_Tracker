@@ -1,0 +1,108 @@
+{
+  "resortId": "vero-beach",
+  "year": 2025,
+  "travelPeriods": [
+    {
+      "id": "period-1",
+      "name": "Travel Period 1",
+      "dateRanges": [
+        { "start": "2025-01-01", "end": "2025-01-31" },
+        { "start": "2025-09-01", "end": "2025-11-25" }
+      ]
+    },
+    {
+      "id": "period-2",
+      "name": "Travel Period 2",
+      "dateRanges": [
+        { "start": "2025-02-01", "end": "2025-03-08" },
+        { "start": "2025-05-01", "end": "2025-05-31" },
+        { "start": "2025-11-26", "end": "2025-11-28" }
+      ]
+    },
+    {
+      "id": "period-3",
+      "name": "Travel Period 3",
+      "dateRanges": [
+        { "start": "2025-03-09", "end": "2025-04-26" },
+        { "start": "2025-12-24", "end": "2025-12-31" }
+      ]
+    },
+    {
+      "id": "period-4",
+      "name": "Travel Period 4",
+      "dateRanges": [
+        { "start": "2025-04-27", "end": "2025-04-30" },
+        { "start": "2025-11-29", "end": "2025-12-23" }
+      ]
+    },
+    {
+      "id": "period-5",
+      "name": "Travel Period 5",
+      "dateRanges": [
+        { "start": "2025-06-01", "end": "2025-08-31" }
+      ]
+    }
+  ],
+  "pointChart": [
+    {
+      "roomTypeId": "inn-standard",
+      "seasons": {
+        "period-1": { "weekday": 10, "weekend": 16 },
+        "period-2": { "weekday": 10, "weekend": 17 },
+        "period-3": { "weekday": 14, "weekend": 17 },
+        "period-4": { "weekday": 15, "weekend": 20 },
+        "period-5": { "weekday": 21, "weekend": 27 }
+      }
+    },
+    {
+      "roomTypeId": "inn-ocean",
+      "seasons": {
+        "period-1": { "weekday": 12, "weekend": 17 },
+        "period-2": { "weekday": 13, "weekend": 18 },
+        "period-3": { "weekday": 16, "weekend": 19 },
+        "period-4": { "weekday": 17, "weekend": 21 },
+        "period-5": { "weekday": 23, "weekend": 29 }
+      }
+    },
+    {
+      "roomTypeId": "studio",
+      "seasons": {
+        "period-1": { "weekday": 14, "weekend": 17 },
+        "period-2": { "weekday": 15, "weekend": 19 },
+        "period-3": { "weekday": 18, "weekend": 21 },
+        "period-4": { "weekday": 19, "weekend": 23 },
+        "period-5": { "weekday": 26, "weekend": 31 }
+      }
+    },
+    {
+      "roomTypeId": "1br",
+      "seasons": {
+        "period-1": { "weekday": 21, "weekend": 29 },
+        "period-2": { "weekday": 24, "weekend": 31 },
+        "period-3": { "weekday": 29, "weekend": 37 },
+        "period-4": { "weekday": 31, "weekend": 40 },
+        "period-5": { "weekday": 43, "weekend": 53 }
+      }
+    },
+    {
+      "roomTypeId": "2br",
+      "seasons": {
+        "period-1": { "weekday": 30, "weekend": 39 },
+        "period-2": { "weekday": 33, "weekend": 42 },
+        "period-3": { "weekday": 36, "weekend": 47 },
+        "period-4": { "weekday": 44, "weekend": 52 },
+        "period-5": { "weekday": 61, "weekend": 72 }
+      }
+    },
+    {
+      "roomTypeId": "3br",
+      "seasons": {
+        "period-1": { "weekday": 60, "weekend": 72 },
+        "period-2": { "weekday": 61, "weekend": 74 },
+        "period-3": { "weekday": 73, "weekend": 88 },
+        "period-4": { "weekday": 81, "weekend": 99 },
+        "period-5": { "weekday": 105, "weekend": 126 }
+      }
+    }
+  ]
+}

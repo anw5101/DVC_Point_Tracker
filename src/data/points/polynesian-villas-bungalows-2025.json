@@ -1,0 +1,210 @@
+{
+  "resortId": "polynesian-villas-bungalows",
+  "year": 2025,
+  "travelPeriods": [
+    {
+      "id": "period-1",
+      "name": "Travel Period 1",
+      "dateRanges": [
+        { "start": "2025-09-01", "end": "2025-09-30" }
+      ]
+    },
+    {
+      "id": "period-2",
+      "name": "Travel Period 2",
+      "dateRanges": [
+        { "start": "2025-01-01", "end": "2025-01-31" },
+        { "start": "2025-12-01", "end": "2025-12-14" }
+      ]
+    },
+    {
+      "id": "period-3",
+      "name": "Travel Period 3",
+      "dateRanges": [
+        { "start": "2025-05-01", "end": "2025-05-14" },
+        { "start": "2025-10-01", "end": "2025-11-25" },
+        { "start": "2025-11-29", "end": "2025-11-30" }
+      ]
+    },
+    {
+      "id": "period-4",
+      "name": "Travel Period 4",
+      "dateRanges": [
+        { "start": "2025-02-01", "end": "2025-02-15" },
+        { "start": "2025-05-15", "end": "2025-06-10" },
+        { "start": "2025-08-16", "end": "2025-08-31" }
+      ]
+    },
+    {
+      "id": "period-5",
+      "name": "Travel Period 5",
+      "dateRanges": [
+        { "start": "2025-02-16", "end": "2025-04-12" },
+        { "start": "2025-04-20", "end": "2025-04-30" },
+        { "start": "2025-06-11", "end": "2025-08-15" },
+        { "start": "2025-11-26", "end": "2025-11-28" }
+      ]
+    },
+    {
+      "id": "period-6",
+      "name": "Travel Period 6",
+      "dateRanges": [
+        { "start": "2025-04-13", "end": "2025-04-19" },
+        { "start": "2025-12-15", "end": "2025-12-23" }
+      ]
+    },
+    {
+      "id": "period-7",
+      "name": "Travel Period 7",
+      "dateRanges": [
+        { "start": "2025-12-24", "end": "2025-12-31" }
+      ]
+    }
+  ],
+  "pointChart": [
+    {
+      "roomTypeId": "studio-standard",
+      "seasons": {
+        "period-1": { "weekday": 14, "weekend": 17 },
+        "period-2": { "weekday": 15, "weekend": 18 },
+        "period-3": { "weekday": 17, "weekend": 20 },
+        "period-4": { "weekday": 18, "weekend": 21 },
+        "period-5": { "weekday": 20, "weekend": 24 },
+        "period-6": { "weekday": 25, "weekend": 29 },
+        "period-7": { "weekday": 29, "weekend": 34 }
+      }
+    },
+    {
+      "roomTypeId": "studio-lake",
+      "seasons": {
+        "period-1": { "weekday": 17, "weekend": 20 },
+        "period-2": { "weekday": 19, "weekend": 22 },
+        "period-3": { "weekday": 21, "weekend": 24 },
+        "period-4": { "weekday": 23, "weekend": 27 },
+        "period-5": { "weekday": 25, "weekend": 29 },
+        "period-6": { "weekday": 31, "weekend": 36 },
+        "period-7": { "weekday": 36, "weekend": 42 }
+      }
+    },
+    {
+      "roomTypeId": "bungalow",
+      "seasons": {
+        "period-1": { "weekday": 112, "weekend": 133 },
+        "period-2": { "weekday": 118, "weekend": 140 },
+        "period-3": { "weekday": 127, "weekend": 150 },
+        "period-4": { "weekday": 137, "weekend": 161 },
+        "period-5": { "weekday": 148, "weekend": 174 },
+        "period-6": { "weekday": 173, "weekend": 204 },
+        "period-7": { "weekday": 198, "weekend": 232 }
+      }
+    },
+    {
+      "roomTypeId": "duo-studio-standard",
+      "seasons": {
+        "period-1": { "weekday": 10, "weekend": 12 },
+        "period-2": { "weekday": 11, "weekend": 13 },
+        "period-3": { "weekday": 12, "weekend": 15 },
+        "period-4": { "weekday": 13, "weekend": 16 },
+        "period-5": { "weekday": 15, "weekend": 18 },
+        "period-6": { "weekday": 18, "weekend": 22 },
+        "period-7": { "weekday": 21, "weekend": 25 }
+      }
+    },
+    {
+      "roomTypeId": "duo-studio-lake",
+      "seasons": {
+        "period-1": { "weekday": 12, "weekend": 15 },
+        "period-2": { "weekday": 13, "weekend": 16 },
+        "period-3": { "weekday": 15, "weekend": 18 },
+        "period-4": { "weekday": 16, "weekend": 19 },
+        "period-5": { "weekday": 18, "weekend": 21 },
+        "period-6": { "weekday": 22, "weekend": 26 },
+        "period-7": { "weekday": 26, "weekend": 30 }
+      }
+    },
+    {
+      "roomTypeId": "duo-studio-theme-park",
+      "seasons": {
+        "period-1": { "weekday": 15, "weekend": 18 },
+        "period-2": { "weekday": 16, "weekend": 19 },
+        "period-3": { "weekday": 18, "weekend": 21 },
+        "period-4": { "weekday": 20, "weekend": 23 },
+        "period-5": { "weekday": 22, "weekend": 26 },
+        "period-6": { "weekday": 26, "weekend": 31 },
+        "period-7": { "weekday": 31, "weekend": 36 }
+      }
+    },
+    {
+      "roomTypeId": "1br-standard",
+      "seasons": {
+        "period-1": { "weekday": 28, "weekend": 33 },
+        "period-2": { "weekday": 30, "weekend": 35 },
+        "period-3": { "weekday": 33, "weekend": 39 },
+        "period-4": { "weekday": 36, "weekend": 42 },
+        "period-5": { "weekday": 39, "weekend": 46 },
+        "period-6": { "weekday": 47, "weekend": 55 },
+        "period-7": { "weekday": 55, "weekend": 65 }
+      }
+    },
+    {
+      "roomTypeId": "1br-lake",
+      "seasons": {
+        "period-1": { "weekday": 33, "weekend": 39 },
+        "period-2": { "weekday": 35, "weekend": 41 },
+        "period-3": { "weekday": 39, "weekend": 46 },
+        "period-4": { "weekday": 42, "weekend": 50 },
+        "period-5": { "weekday": 46, "weekend": 54 },
+        "period-6": { "weekday": 55, "weekend": 65 },
+        "period-7": { "weekday": 65, "weekend": 76 }
+      }
+    },
+    {
+      "roomTypeId": "1br-theme-park",
+      "seasons": {
+        "period-1": { "weekday": 41, "weekend": 48 },
+        "period-2": { "weekday": 43, "weekend": 51 },
+        "period-3": { "weekday": 48, "weekend": 57 },
+        "period-4": { "weekday": 52, "weekend": 61 },
+        "period-5": { "weekday": 57, "weekend": 67 },
+        "period-6": { "weekday": 68, "weekend": 80 },
+        "period-7": { "weekday": 80, "weekend": 94 }
+      }
+    },
+    {
+      "roomTypeId": "2br-standard",
+      "seasons": {
+        "period-1": { "weekday": 38, "weekend": 45 },
+        "period-2": { "weekday": 40, "weekend": 48 },
+        "period-3": { "weekday": 45, "weekend": 53 },
+        "period-4": { "weekday": 49, "weekend": 58 },
+        "period-5": { "weekday": 54, "weekend": 63 },
+        "period-6": { "weekday": 64, "weekend": 75 },
+        "period-7": { "weekday": 75, "weekend": 89 }
+      }
+    },
+    {
+      "roomTypeId": "2br-lake",
+      "seasons": {
+        "period-1": { "weekday": 45, "weekend": 53 },
+        "period-2": { "weekday": 48, "weekend": 57 },
+        "period-3": { "weekday": 53, "weekend": 63 },
+        "period-4": { "weekday": 58, "weekend": 68 },
+        "period-5": { "weekday": 64, "weekend": 75 },
+        "period-6": { "weekday": 76, "weekend": 89 },
+        "period-7": { "weekday": 89, "weekend": 105 }
+      }
+    },
+    {
+      "roomTypeId": "2br-theme-park",
+      "seasons": {
+        "period-1": { "weekday": 55, "weekend": 65 },
+        "period-2": { "weekday": 59, "weekend": 70 },
+        "period-3": { "weekday": 65, "weekend": 77 },
+        "period-4": { "weekday": 71, "weekend": 83 },
+        "period-5": { "weekday": 78, "weekend": 92 },
+        "period-6": { "weekday": 93, "weekend": 109 },
+        "period-7": { "weekday": 109, "weekend": 128 }
+      }
+    }
+  ]
+}

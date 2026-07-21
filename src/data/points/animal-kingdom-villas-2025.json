@@ -1,0 +1,576 @@
+{
+  "resortId": "animal-kingdom-villas",
+  "year": 2025,
+  "travelPeriods": [
+    {
+      "id": "period-1",
+      "name": "Travel Period 1",
+      "dateRanges": [
+        {
+          "start": "2025-09-01",
+          "end": "2025-09-30"
+        }
+      ]
+    },
+    {
+      "id": "period-2",
+      "name": "Travel Period 2",
+      "dateRanges": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-01-31"
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "id": "period-3",
+      "name": "Travel Period 3",
+      "dateRanges": [
+        {
+          "start": "2025-05-01",
+          "end": "2025-05-14"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-11-25"
+        },
+        {
+          "start": "2025-11-29",
+          "end": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "id": "period-4",
+      "name": "Travel Period 4",
+      "dateRanges": [
+        {
+          "start": "2025-02-01",
+          "end": "2025-02-15"
+        },
+        {
+          "start": "2025-05-15",
+          "end": "2025-06-10"
+        },
+        {
+          "start": "2025-08-16",
+          "end": "2025-08-31"
+        }
+      ]
+    },
+    {
+      "id": "period-5",
+      "name": "Travel Period 5",
+      "dateRanges": [
+        {
+          "start": "2025-02-16",
+          "end": "2025-04-12"
+        },
+        {
+          "start": "2025-04-20",
+          "end": "2025-04-30"
+        },
+        {
+          "start": "2025-06-11",
+          "end": "2025-08-15"
+        },
+        {
+          "start": "2025-11-26",
+          "end": "2025-11-28"
+        }
+      ]
+    },
+    {
+      "id": "period-6",
+      "name": "Travel Period 6",
+      "dateRanges": [
+        {
+          "start": "2025-04-13",
+          "end": "2025-04-19"
+        },
+        {
+          "start": "2025-12-15",
+          "end": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "id": "period-7",
+      "name": "Travel Period 7",
+      "dateRanges": [
+        {
+          "start": "2025-12-24",
+          "end": "2025-12-31"
+        }
+      ]
+    }
+  ],
+  "pointChart": [
+    {
+      "roomTypeId": "value-studio",
+      "seasons": {
+        "period-1": {
+          "weekday": 7,
+          "weekend": 10
+        },
+        "period-2": {
+          "weekday": 8,
+          "weekend": 11
+        },
+        "period-3": {
+          "weekday": 8,
+          "weekend": 12
+        },
+        "period-4": {
+          "weekday": 9,
+          "weekend": 12
+        },
+        "period-5": {
+          "weekday": 10,
+          "weekend": 13
+        },
+        "period-6": {
+          "weekday": 12,
+          "weekend": 14
+        },
+        "period-7": {
+          "weekday": 16,
+          "weekend": 17
+        }
+      }
+    },
+    {
+      "roomTypeId": "standard-studio",
+      "seasons": {
+        "period-1": {
+          "weekday": 10,
+          "weekend": 13
+        },
+        "period-2": {
+          "weekday": 12,
+          "weekend": 14
+        },
+        "period-3": {
+          "weekday": 13,
+          "weekend": 15
+        },
+        "period-4": {
+          "weekday": 14,
+          "weekend": 15
+        },
+        "period-5": {
+          "weekday": 15,
+          "weekend": 16
+        },
+        "period-6": {
+          "weekday": 16,
+          "weekend": 18
+        },
+        "period-7": {
+          "weekday": 21,
+          "weekend": 23
+        }
+      }
+    },
+    {
+      "roomTypeId": "savanna-studio",
+      "seasons": {
+        "period-1": {
+          "weekday": 13,
+          "weekend": 16
+        },
+        "period-2": {
+          "weekday": 15,
+          "weekend": 17
+        },
+        "period-3": {
+          "weekday": 16,
+          "weekend": 18
+        },
+        "period-4": {
+          "weekday": 17,
+          "weekend": 20
+        },
+        "period-5": {
+          "weekday": 19,
+          "weekend": 20
+        },
+        "period-6": {
+          "weekday": 19,
+          "weekend": 22
+        },
+        "period-7": {
+          "weekday": 27,
+          "weekend": 29
+        }
+      }
+    },
+    {
+      "roomTypeId": "club-level-studio",
+      "seasons": {
+        "period-1": {
+          "weekday": 18,
+          "weekend": 22
+        },
+        "period-2": {
+          "weekday": 20,
+          "weekend": 23
+        },
+        "period-3": {
+          "weekday": 21,
+          "weekend": 24
+        },
+        "period-4": {
+          "weekday": 22,
+          "weekend": 24
+        },
+        "period-5": {
+          "weekday": 23,
+          "weekend": 25
+        },
+        "period-6": {
+          "weekday": 23,
+          "weekend": 26
+        },
+        "period-7": {
+          "weekday": 33,
+          "weekend": 36
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-value",
+      "seasons": {
+        "period-1": {
+          "weekday": 17,
+          "weekend": 20
+        },
+        "period-2": {
+          "weekday": 19,
+          "weekend": 21
+        },
+        "period-3": {
+          "weekday": 20,
+          "weekend": 22
+        },
+        "period-4": {
+          "weekday": 21,
+          "weekend": 24
+        },
+        "period-5": {
+          "weekday": 23,
+          "weekend": 26
+        },
+        "period-6": {
+          "weekday": 24,
+          "weekend": 27
+        },
+        "period-7": {
+          "weekday": 31,
+          "weekend": 35
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 20,
+          "weekend": 25
+        },
+        "period-2": {
+          "weekday": 24,
+          "weekend": 28
+        },
+        "period-3": {
+          "weekday": 26,
+          "weekend": 29
+        },
+        "period-4": {
+          "weekday": 27,
+          "weekend": 30
+        },
+        "period-5": {
+          "weekday": 29,
+          "weekend": 32
+        },
+        "period-6": {
+          "weekday": 32,
+          "weekend": 35
+        },
+        "period-7": {
+          "weekday": 38,
+          "weekend": 45
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-savanna",
+      "seasons": {
+        "period-1": {
+          "weekday": 27,
+          "weekend": 31
+        },
+        "period-2": {
+          "weekday": 31,
+          "weekend": 34
+        },
+        "period-3": {
+          "weekday": 33,
+          "weekend": 35
+        },
+        "period-4": {
+          "weekday": 34,
+          "weekend": 36
+        },
+        "period-5": {
+          "weekday": 35,
+          "weekend": 39
+        },
+        "period-6": {
+          "weekday": 38,
+          "weekend": 41
+        },
+        "period-7": {
+          "weekday": 47,
+          "weekend": 52
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-club-level",
+      "seasons": {
+        "period-1": {
+          "weekday": 38,
+          "weekend": 43
+        },
+        "period-2": {
+          "weekday": 41,
+          "weekend": 46
+        },
+        "period-3": {
+          "weekday": 43,
+          "weekend": 49
+        },
+        "period-4": {
+          "weekday": 44,
+          "weekend": 50
+        },
+        "period-5": {
+          "weekday": 46,
+          "weekend": 53
+        },
+        "period-6": {
+          "weekday": 49,
+          "weekend": 56
+        },
+        "period-7": {
+          "weekday": 65,
+          "weekend": 73
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-value",
+      "seasons": {
+        "period-1": {
+          "weekday": 22,
+          "weekend": 28
+        },
+        "period-2": {
+          "weekday": 25,
+          "weekend": 31
+        },
+        "period-3": {
+          "weekday": 27,
+          "weekend": 32
+        },
+        "period-4": {
+          "weekday": 29,
+          "weekend": 34
+        },
+        "period-5": {
+          "weekday": 30,
+          "weekend": 35
+        },
+        "period-6": {
+          "weekday": 31,
+          "weekend": 36
+        },
+        "period-7": {
+          "weekday": 43,
+          "weekend": 48
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 28,
+          "weekend": 34
+        },
+        "period-2": {
+          "weekday": 31,
+          "weekend": 37
+        },
+        "period-3": {
+          "weekday": 32,
+          "weekend": 39
+        },
+        "period-4": {
+          "weekday": 35,
+          "weekend": 40
+        },
+        "period-5": {
+          "weekday": 36,
+          "weekend": 44
+        },
+        "period-6": {
+          "weekday": 40,
+          "weekend": 48
+        },
+        "period-7": {
+          "weekday": 55,
+          "weekend": 60
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-savanna",
+      "seasons": {
+        "period-1": {
+          "weekday": 35,
+          "weekend": 43
+        },
+        "period-2": {
+          "weekday": 39,
+          "weekend": 48
+        },
+        "period-3": {
+          "weekday": 42,
+          "weekend": 50
+        },
+        "period-4": {
+          "weekday": 43,
+          "weekend": 52
+        },
+        "period-5": {
+          "weekday": 47,
+          "weekend": 57
+        },
+        "period-6": {
+          "weekday": 52,
+          "weekend": 61
+        },
+        "period-7": {
+          "weekday": 70,
+          "weekend": 76
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-club-level",
+      "seasons": {
+        "period-1": {
+          "weekday": 51,
+          "weekend": 58
+        },
+        "period-2": {
+          "weekday": 55,
+          "weekend": 63
+        },
+        "period-3": {
+          "weekday": 58,
+          "weekend": 66
+        },
+        "period-4": {
+          "weekday": 60,
+          "weekend": 66
+        },
+        "period-5": {
+          "weekday": 61,
+          "weekend": 71
+        },
+        "period-6": {
+          "weekday": 66,
+          "weekend": 77
+        },
+        "period-7": {
+          "weekday": 88,
+          "weekend": 98
+        }
+      }
+    },
+    {
+      "roomTypeId": "3br-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 68,
+          "weekend": 78
+        },
+        "period-2": {
+          "weekday": 73,
+          "weekend": 82
+        },
+        "period-3": {
+          "weekday": 78,
+          "weekend": 88
+        },
+        "period-4": {
+          "weekday": 81,
+          "weekend": 91
+        },
+        "period-5": {
+          "weekday": 88,
+          "weekend": 100
+        },
+        "period-6": {
+          "weekday": 97,
+          "weekend": 111
+        },
+        "period-7": {
+          "weekday": 117,
+          "weekend": 135
+        }
+      }
+    },
+    {
+      "roomTypeId": "3br-savanna",
+      "seasons": {
+        "period-1": {
+          "weekday": 73,
+          "weekend": 85
+        },
+        "period-2": {
+          "weekday": 79,
+          "weekend": 89
+        },
+        "period-3": {
+          "weekday": 86,
+          "weekend": 96
+        },
+        "period-4": {
+          "weekday": 89,
+          "weekend": 100
+        },
+        "period-5": {
+          "weekday": 96,
+          "weekend": 110
+        },
+        "period-6": {
+          "weekday": 107,
+          "weekend": 121
+        },
+        "period-7": {
+          "weekday": 127,
+          "weekend": 144
+        }
+      }
+    }
+  ]
+}

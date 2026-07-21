@@ -1,0 +1,407 @@
+{
+  "resortId": "aulani",
+  "year": 2025,
+  "travelPeriods": [
+    {
+      "id": "period-1",
+      "name": "Travel Period 1",
+      "dateRanges": [
+        {
+          "start": "2025-01-05",
+          "end": "2025-02-22"
+        },
+        {
+          "start": "2025-08-31",
+          "end": "2025-10-11"
+        },
+        {
+          "start": "2025-11-11",
+          "end": "2025-11-24"
+        },
+        {
+          "start": "2025-11-30",
+          "end": "2025-12-18"
+        }
+      ]
+    },
+    {
+      "id": "period-2",
+      "name": "Travel Period 2",
+      "dateRanges": [
+        {
+          "start": "2025-04-27",
+          "end": "2025-04-28"
+        },
+        {
+          "start": "2025-05-06",
+          "end": "2025-06-29"
+        },
+        {
+          "start": "2025-10-12",
+          "end": "2025-11-10"
+        }
+      ]
+    },
+    {
+      "id": "period-3",
+      "name": "Travel Period 3",
+      "dateRanges": [
+        {
+          "start": "2025-02-23",
+          "end": "2025-04-10"
+        },
+        {
+          "start": "2025-08-11",
+          "end": "2025-08-30"
+        },
+        {
+          "start": "2025-11-25",
+          "end": "2025-11-29"
+        }
+      ]
+    },
+    {
+      "id": "period-4",
+      "name": "Travel Period 4",
+      "dateRanges": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-01-04"
+        },
+        {
+          "start": "2025-04-11",
+          "end": "2025-04-26"
+        },
+        {
+          "start": "2025-04-29",
+          "end": "2025-05-05"
+        },
+        {
+          "start": "2025-06-30",
+          "end": "2025-08-10"
+        },
+        {
+          "start": "2025-12-19",
+          "end": "2025-12-31"
+        }
+      ]
+    }
+  ],
+  "pointChart": [
+    {
+      "roomTypeId": "hotel-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 15,
+          "weekend": 15
+        },
+        "period-2": {
+          "weekday": 17,
+          "weekend": 17
+        },
+        "period-3": {
+          "weekday": 19,
+          "weekend": 19
+        },
+        "period-4": {
+          "weekday": 22,
+          "weekend": 22
+        }
+      }
+    },
+    {
+      "roomTypeId": "studio-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 17,
+          "weekend": 17
+        },
+        "period-2": {
+          "weekday": 19,
+          "weekend": 19
+        },
+        "period-3": {
+          "weekday": 22,
+          "weekend": 22
+        },
+        "period-4": {
+          "weekday": 24,
+          "weekend": 24
+        }
+      }
+    },
+    {
+      "roomTypeId": "studio-island",
+      "seasons": {
+        "period-1": {
+          "weekday": 19,
+          "weekend": 19
+        },
+        "period-2": {
+          "weekday": 21,
+          "weekend": 21
+        },
+        "period-3": {
+          "weekday": 25,
+          "weekend": 25
+        },
+        "period-4": {
+          "weekday": 27,
+          "weekend": 27
+        }
+      }
+    },
+    {
+      "roomTypeId": "studio-poolside",
+      "seasons": {
+        "period-1": {
+          "weekday": 23,
+          "weekend": 23
+        },
+        "period-2": {
+          "weekday": 24,
+          "weekend": 24
+        },
+        "period-3": {
+          "weekday": 26,
+          "weekend": 26
+        },
+        "period-4": {
+          "weekday": 29,
+          "weekend": 29
+        }
+      }
+    },
+    {
+      "roomTypeId": "studio-ocean",
+      "seasons": {
+        "period-1": {
+          "weekday": 25,
+          "weekend": 25
+        },
+        "period-2": {
+          "weekday": 26,
+          "weekend": 26
+        },
+        "period-3": {
+          "weekday": 29,
+          "weekend": 29
+        },
+        "period-4": {
+          "weekday": 31,
+          "weekend": 31
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 34,
+          "weekend": 34
+        },
+        "period-2": {
+          "weekday": 37,
+          "weekend": 37
+        },
+        "period-3": {
+          "weekday": 44,
+          "weekend": 44
+        },
+        "period-4": {
+          "weekday": 46,
+          "weekend": 46
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-island",
+      "seasons": {
+        "period-1": {
+          "weekday": 35,
+          "weekend": 35
+        },
+        "period-2": {
+          "weekday": 44,
+          "weekend": 44
+        },
+        "period-3": {
+          "weekday": 46,
+          "weekend": 46
+        },
+        "period-4": {
+          "weekday": 50,
+          "weekend": 50
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-poolside",
+      "seasons": {
+        "period-1": {
+          "weekday": 44,
+          "weekend": 44
+        },
+        "period-2": {
+          "weekday": 46,
+          "weekend": 46
+        },
+        "period-3": {
+          "weekday": 50,
+          "weekend": 50
+        },
+        "period-4": {
+          "weekday": 58,
+          "weekend": 58
+        }
+      }
+    },
+    {
+      "roomTypeId": "1br-ocean",
+      "seasons": {
+        "period-1": {
+          "weekday": 46,
+          "weekend": 46
+        },
+        "period-2": {
+          "weekday": 50,
+          "weekend": 50
+        },
+        "period-3": {
+          "weekday": 58,
+          "weekend": 58
+        },
+        "period-4": {
+          "weekday": 62,
+          "weekend": 62
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 47,
+          "weekend": 47
+        },
+        "period-2": {
+          "weekday": 51,
+          "weekend": 51
+        },
+        "period-3": {
+          "weekday": 60,
+          "weekend": 60
+        },
+        "period-4": {
+          "weekday": 64,
+          "weekend": 64
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-island",
+      "seasons": {
+        "period-1": {
+          "weekday": 49,
+          "weekend": 49
+        },
+        "period-2": {
+          "weekday": 59,
+          "weekend": 59
+        },
+        "period-3": {
+          "weekday": 62,
+          "weekend": 62
+        },
+        "period-4": {
+          "weekday": 71,
+          "weekend": 71
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-poolside",
+      "seasons": {
+        "period-1": {
+          "weekday": 59,
+          "weekend": 59
+        },
+        "period-2": {
+          "weekday": 62,
+          "weekend": 62
+        },
+        "period-3": {
+          "weekday": 70,
+          "weekend": 70
+        },
+        "period-4": {
+          "weekday": 79,
+          "weekend": 79
+        }
+      }
+    },
+    {
+      "roomTypeId": "2br-ocean",
+      "seasons": {
+        "period-1": {
+          "weekday": 62,
+          "weekend": 62
+        },
+        "period-2": {
+          "weekday": 69,
+          "weekend": 69
+        },
+        "period-3": {
+          "weekday": 79,
+          "weekend": 79
+        },
+        "period-4": {
+          "weekday": 84,
+          "weekend": 84
+        }
+      }
+    },
+    {
+      "roomTypeId": "3br-standard",
+      "seasons": {
+        "period-1": {
+          "weekday": 95,
+          "weekend": 95
+        },
+        "period-2": {
+          "weekday": 103,
+          "weekend": 103
+        },
+        "period-3": {
+          "weekday": 121,
+          "weekend": 121
+        },
+        "period-4": {
+          "weekday": 140,
+          "weekend": 140
+        }
+      }
+    },
+    {
+      "roomTypeId": "3br-ocean",
+      "seasons": {
+        "period-1": {
+          "weekday": 122,
+          "weekend": 122
+        },
+        "period-2": {
+          "weekday": 134,
+          "weekend": 134
+        },
+        "period-3": {
+          "weekday": 157,
+          "weekend": 157
+        },
+        "period-4": {
+          "weekday": 184,
+          "weekend": 184
+        }
+      }
+    }
+  ]
+}

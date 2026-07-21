@@ -1,0 +1,100 @@
+{
+  "resortId": "boulder-ridge-villas",
+  "year": 2025,
+  "travelPeriods": [
+    {
+      "id": "period-1",
+      "name": "Travel Period 1",
+      "dateRanges": [
+        { "start": "2025-09-01", "end": "2025-09-30" }
+      ]
+    },
+    {
+      "id": "period-2",
+      "name": "Travel Period 2",
+      "dateRanges": [
+        { "start": "2025-01-01", "end": "2025-01-31" },
+        { "start": "2025-05-01", "end": "2025-05-14" }
+      ]
+    },
+    {
+      "id": "period-3",
+      "name": "Travel Period 3",
+      "dateRanges": [
+        { "start": "2025-05-15", "end": "2025-06-10" },
+        { "start": "2025-12-01", "end": "2025-12-23" }
+      ]
+    },
+    {
+      "id": "period-4",
+      "name": "Travel Period 4",
+      "dateRanges": [
+        { "start": "2025-02-01", "end": "2025-02-15" },
+        { "start": "2025-06-11", "end": "2025-08-31" }
+      ]
+    },
+    {
+      "id": "period-5",
+      "name": "Travel Period 5",
+      "dateRanges": [
+        { "start": "2025-10-01", "end": "2025-11-25" },
+        { "start": "2025-11-29", "end": "2025-11-30" }
+      ]
+    },
+    {
+      "id": "period-6",
+      "name": "Travel Period 6",
+      "dateRanges": [
+        { "start": "2025-02-16", "end": "2025-04-12" },
+        { "start": "2025-04-21", "end": "2025-04-30" },
+        { "start": "2025-11-26", "end": "2025-11-28" }
+      ]
+    },
+    {
+      "id": "period-7",
+      "name": "Travel Period 7",
+      "dateRanges": [
+        { "start": "2025-04-13", "end": "2025-04-20" },
+        { "start": "2025-12-24", "end": "2025-12-31" }
+      ]
+    }
+  ],
+  "pointChart": [
+    {
+      "roomTypeId": "studio",
+      "seasons": {
+        "period-1": { "weekday": 13, "weekend": 16 },
+        "period-2": { "weekday": 15, "weekend": 16 },
+        "period-3": { "weekday": 16, "weekend": 17 },
+        "period-4": { "weekday": 16, "weekend": 18 },
+        "period-5": { "weekday": 17, "weekend": 20 },
+        "period-6": { "weekday": 19, "weekend": 21 },
+        "period-7": { "weekday": 26, "weekend": 28 }
+      }
+    },
+    {
+      "roomTypeId": "1br",
+      "seasons": {
+        "period-1": { "weekday": 27, "weekend": 31 },
+        "period-2": { "weekday": 30, "weekend": 34 },
+        "period-3": { "weekday": 32, "weekend": 36 },
+        "period-4": { "weekday": 34, "weekend": 39 },
+        "period-5": { "weekday": 35, "weekend": 40 },
+        "period-6": { "weekday": 37, "weekend": 42 },
+        "period-7": { "weekday": 47, "weekend": 55 }
+      }
+    },
+    {
+      "roomTypeId": "2br",
+      "seasons": {
+        "period-1": { "weekday": 36, "weekend": 41 },
+        "period-2": { "weekday": 38, "weekend": 44 },
+        "period-3": { "weekday": 41, "weekend": 47 },
+        "period-4": { "weekday": 44, "weekend": 48 },
+        "period-5": { "weekday": 46, "weekend": 51 },
+        "period-6": { "weekday": 49, "weekend": 54 },
+        "period-7": { "weekday": 64, "weekend": 72 }
+      }
+    }
+  ]
+}

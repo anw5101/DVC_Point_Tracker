@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "animal-kingdom-villas",
+    "name": "Disney's Animal Kingdom Villas",
+    "shortName": "AKV",
+    "location": "walt-disney-world",
+    "theme": "African lodge with savanna views",
+    "expirationYear": 2057,
+    "roomTypes": [
+      {
+        "id": "value-studio",
+        "name": "Value Studio",
+        "view": "Value",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "standard-studio",
+        "name": "Standard Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "savanna-studio",
+        "name": "Savanna Studio",
+        "view": "Savanna",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "club-level-studio",
+        "name": "Kilimanjaro Club Concierge Studio",
+        "view": "Club Level",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "1br-value",
+        "name": "1-Bedroom Villa",
+        "view": "Value",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "1br-savanna",
+        "name": "1-Bedroom Villa",
+        "view": "Savanna",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "1br-club-level",
+        "name": "1-Bedroom Villa",
+        "view": "Club Level",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-value",
+        "name": "2-Bedroom Villa",
+        "view": "Value",
+        "sleeps": 8,
+        "bedConfig": "1 King, 1 Queen, 1 Queen Sleeper Sofa, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-savanna",
+        "name": "2-Bedroom Villa",
+        "view": "Savanna",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-club-level",
+        "name": "2-Bedroom Villa",
+        "view": "Club Level",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "3br-standard",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "3br-savanna",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Savanna",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 9.647,
+      "2026": 10.1608
+    }
+  },
+  {
+    "id": "aulani",
+    "name": "Aulani, Disney Vacation Club Villas",
+    "shortName": "Aulani",
+    "location": "aulani",
+    "theme": "Hawaiian paradise",
+    "expirationYear": 2062,
+    "roomTypes": [
+      {
+        "id": "hotel-standard",
+        "name": "Hotel Room",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "2 Queens"
+      },
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "studio-island",
+        "name": "Deluxe Studio",
+        "view": "Island Gardens",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "studio-poolside",
+        "name": "Deluxe Studio",
+        "view": "Poolside Gardens",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "studio-ocean",
+        "name": "Deluxe Studio",
+        "view": "Ocean",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-island",
+        "name": "1-Bedroom Villa",
+        "view": "Island Gardens",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-poolside",
+        "name": "1-Bedroom Villa",
+        "view": "Poolside Gardens",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-ocean",
+        "name": "1-Bedroom Villa",
+        "view": "Ocean",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-island",
+        "name": "2-Bedroom Villa",
+        "view": "Island Gardens",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-poolside",
+        "name": "2-Bedroom Villa",
+        "view": "Poolside Gardens",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-ocean",
+        "name": "2-Bedroom Villa",
+        "view": "Ocean",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "3br-standard",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "3br-ocean",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Ocean",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      }
+    ],
+    "dues": {
+      "2025": 10.1219,
+      "2026": 10.9572
+    }
+  },
+  {
+    "id": "bay-lake-tower",
+    "name": "Bay Lake Tower at Disney's Contemporary Resort",
+    "shortName": "BLT",
+    "location": "walt-disney-world",
+    "theme": "Modern luxury with Magic Kingdom views",
+    "expirationYear": 2060,
+    "roomTypes": [
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "studio-lake",
+        "name": "Deluxe Studio",
+        "view": "Lake",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "studio-theme-park",
+        "name": "Deluxe Studio",
+        "view": "Theme Park",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "1br-lake",
+        "name": "1-Bedroom Villa",
+        "view": "Lake",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "1br-theme-park",
+        "name": "1-Bedroom Villa",
+        "view": "Theme Park",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-lake",
+        "name": "2-Bedroom Villa",
+        "view": "Lake",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br-theme-park",
+        "name": "2-Bedroom Villa",
+        "view": "Theme Park",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      }
+    ],
+    "dues": {
+      "2025": 8.015,
+      "2026": 8.7415
+    }
+  },
+  {
+    "id": "beach-club-villas",
+    "name": "Disney's Beach Club Villas",
+    "shortName": "BCV",
+    "location": "walt-disney-world",
+    "theme": "New England-style yacht club",
+    "expirationYear": 2042,
+    "roomTypes": [
+      {
+        "id": "studio",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "2br",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 8,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 9.1207,
+      "2026": 9.8113
+    }
+  },
+  {
+    "id": "boardwalk-villas",
+    "name": "Disney's BoardWalk Villas",
+    "shortName": "BWV",
+    "location": "walt-disney-world",
+    "theme": "1940s Atlantic City boardwalk",
+    "expirationYear": 2042,
+    "roomTypes": [
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "studio-preferred",
+        "name": "Deluxe Studio",
+        "view": "Preferred",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "studio-boardwalk",
+        "name": "Deluxe Studio",
+        "view": "BoardWalk",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "1br-preferred",
+        "name": "1-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "1br-boardwalk",
+        "name": "1-Bedroom Villa",
+        "view": "BoardWalk",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 8,
+        "bedConfig": "1 King, 1 Queen, 1 Double Sleeper Sofa, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "2br-preferred",
+        "name": "2-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 8,
+        "bedConfig": "1 King, 1 Queen, 1 Double Sleeper Sofa, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "2br-boardwalk",
+        "name": "2-Bedroom Villa",
+        "view": "BoardWalk",
+        "sleeps": 8,
+        "bedConfig": "1 King, 1 Queen, 1 Double Sleeper Sofa, 1 Queen Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 9.057,
+      "2026": 9.6717
+    }
+  },
+  {
+    "id": "boulder-ridge-villas",
+    "name": "Boulder Ridge Villas at Disney's Wilderness Lodge",
+    "shortName": "BRV",
+    "location": "walt-disney-world",
+    "theme": "Pacific Northwest rustic elegance",
+    "expirationYear": 2042,
+    "roomTypes": [
+      {
+        "id": "studio",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "2br",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 8,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 9.1885,
+      "2026": 9.7672
+    }
+  },
+  {
+    "id": "cabins-at-fort-wilderness",
+    "name": "The Cabins at Disney's Fort Wilderness Resort",
+    "shortName": "CFW",
+    "location": "walt-disney-world",
+    "theme": "Rustic cabins in a pine forest",
+    "expirationYear": 2074,
+    "roomTypes": [
+      {
+        "id": "cabin",
+        "name": "Cabin",
+        "view": "Standard",
+        "sleeps": 6,
+        "bedConfig": "1 Queen, 1 Bunk Bed, 1 Double Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 11.8769,
+      "2026": 12.2756
+    }
+  },
+  {
+    "id": "copper-creek-villas",
+    "name": "Copper Creek Villas & Cabins at Disney's Wilderness Lodge",
+    "shortName": "CCV",
+    "location": "walt-disney-world",
+    "theme": "Pacific Northwest mining and railway",
+    "expirationYear": 2068,
+    "roomTypes": [
+      {
+        "id": "studio",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "1br",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "2br",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 8,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "3br",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "cabin",
+        "name": "Cascade Cabin",
+        "view": "Standard",
+        "sleeps": 8,
+        "bedConfig": "1 King, 1 Queen, 1 Queen Sleeper Sofa, 1 Single Pull-Down, 1 Sleeper Chair"
+      }
+    ],
+    "dues": {
+      "2025": 8.4914,
+      "2026": 9.02
+    }
+  },
+  {
+    "id": "disneyland-hotel-villas",
+    "name": "The Villas at Disneyland Hotel",
+    "shortName": "VDH",
+    "location": "disneyland",
+    "theme": "Modern, celebrating Disney animation",
+    "expirationYear": 2074,
+    "roomTypes": [
+      {
+        "id": "duo-studio-standard",
+        "name": "Duo Studio",
+        "view": "Standard",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "duo-studio-preferred",
+        "name": "Duo Studio",
+        "view": "Preferred",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "duo-studio-garden",
+        "name": "Duo Studio",
+        "view": "Garden",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down"
+      },
+      {
+        "id": "studio-preferred",
+        "name": "Deluxe Studio",
+        "view": "Preferred",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down"
+      },
+      {
+        "id": "studio-garden",
+        "name": "Deluxe Studio",
+        "view": "Garden",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down"
+      },
+      {
+        "id": "1br-preferred",
+        "name": "1-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-preferred",
+        "name": "2-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 9,
+        "bedConfig": "1 King, 1 Queen, 2 Queen Pull-Downs, 1 Single Pull-Down"
+      },
+      {
+        "id": "3br-preferred",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Preferred",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Pull-Down"
+      }
+    ],
+    "dues": {
+      "2025": 9.8207,
+      "2026": 10.5354
+    }
+  },
+  {
+    "id": "grand-californian-villas",
+    "name": "The Villas at Disney's Grand Californian Hotel",
+    "shortName": "VGC",
+    "location": "disneyland",
+    "theme": "Craftsman-style elegance",
+    "expirationYear": 2060,
+    "roomTypes": [
+      {
+        "id": "studio",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "1br",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "3br-grand-villa",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 8.7974,
+      "2026": 9.5203
+    }
+  },
+  {
+    "id": "grand-floridian-villas",
+    "name": "The Villas at Disney's Grand Floridian Resort",
+    "shortName": "VGF",
+    "location": "walt-disney-world",
+    "theme": "Victorian seaside resort",
+    "expirationYear": 2064,
+    "roomTypes": [
+      {
+        "id": "resort-studio-standard",
+        "name": "Resort Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "2 Queens, 1 Daybed"
+      },
+      {
+        "id": "resort-studio-lake",
+        "name": "Resort Studio",
+        "view": "Lake",
+        "sleeps": 5,
+        "bedConfig": "2 Queens, 1 Daybed"
+      },
+      {
+        "id": "resort-studio-theme-park",
+        "name": "Resort Studio",
+        "view": "Theme Park",
+        "sleeps": 5,
+        "bedConfig": "2 Queens, 1 Daybed"
+      },
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "studio-lake",
+        "name": "Deluxe Studio",
+        "view": "Lake",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-lake",
+        "name": "1-Bedroom Villa",
+        "view": "Lake",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 1 Queen, 2 Queen Sleeper Sofas, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-lake",
+        "name": "2-Bedroom Villa",
+        "view": "Lake",
+        "sleeps": 9,
+        "bedConfig": "1 King, 1 Queen, 2 Queen Sleeper Sofas, 1 Single Pull-Down"
+      }
+    ],
+    "dues": {
+      "2025": 7.9298,
+      "2026": 8.3142
+    }
+  },
+  {
+    "id": "hilton-head-island",
+    "name": "Disney's Hilton Head Island Resort",
+    "shortName": "HHI",
+    "location": "hilton-head",
+    "theme": "South Carolina coastal lodge",
+    "expirationYear": 2042,
+    "roomTypes": [
+      {
+        "id": "studio",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Sleeper Sofa"
+      },
+      {
+        "id": "1br",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "3br",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      }
+    ],
+    "dues": {
+      "2025": 11.9207,
+      "2026": 12.8621
+    }
+  },
+  {
+    "id": "old-key-west-resort",
+    "name": "Disney's Old Key West Resort",
+    "shortName": "OKW",
+    "location": "walt-disney-world",
+    "theme": "Relaxed Florida Keys island vibe",
+    "expirationYear": 2057,
+    "roomTypes": [
+      {
+        "id": "studio",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "2 Queens"
+      },
+      {
+        "id": "1br",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "2br",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      },
+      {
+        "id": "grand-villa",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 2 Queens, 2 Doubles, 1 Queen Sleeper Sofa, 1 Sleeper Chair"
+      }
+    ],
+    "dues": {
+      "2025": 10.5049,
+      "2026": 11.2054
+    }
+  },
+  {
+    "id": "polynesian-villas-bungalows",
+    "name": "Disney's Polynesian Villas & Bungalows",
+    "shortName": "Poly",
+    "location": "walt-disney-world",
+    "theme": "South Pacific tropical oasis",
+    "expirationYear": 2066,
+    "roomTypes": [
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "studio-lake",
+        "name": "Deluxe Studio",
+        "view": "Lake",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "bungalow",
+        "name": "Bungalow",
+        "view": "Lake",
+        "sleeps": 8,
+        "bedConfig": "1 King, 1 Queen, 1 Queen Pull-Down, 2 Single Pull-Downs"
+      },
+      {
+        "id": "duo-studio-standard",
+        "name": "Duo Studio",
+        "view": "Standard",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "duo-studio-lake",
+        "name": "Duo Studio",
+        "view": "Lake",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "duo-studio-theme-park",
+        "name": "Duo Studio",
+        "view": "Theme Park",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-lake",
+        "name": "1-Bedroom Villa",
+        "view": "Lake",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-theme-park",
+        "name": "1-Bedroom Villa",
+        "view": "Theme Park",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-lake",
+        "name": "2-Bedroom Villa",
+        "view": "Lake",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-theme-park",
+        "name": "2-Bedroom Villa",
+        "view": "Theme Park",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Pull-Down, 1 Single Pull-Down"
+      }
+    ],
+    "dues": {
+      "2025": 7.9263,
+      "2026": 8.3334
+    }
+  },
+  {
+    "id": "riviera-resort",
+    "name": "Disney's Riviera Resort",
+    "shortName": "RIV",
+    "location": "walt-disney-world",
+    "theme": "European Riviera elegance",
+    "expirationYear": 2070,
+    "roomTypes": [
+      {
+        "id": "tower-studio-standard",
+        "name": "Tower Studio",
+        "view": "Standard",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "tower-studio-preferred",
+        "name": "Tower Studio",
+        "view": "Preferred",
+        "sleeps": 2,
+        "bedConfig": "1 Queen Pull-Down"
+      },
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "studio-preferred",
+        "name": "Deluxe Studio",
+        "view": "Preferred",
+        "sleeps": 5,
+        "bedConfig": "1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-preferred",
+        "name": "1-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-preferred",
+        "name": "2-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 9,
+        "bedConfig": "1 King, 2 Queens, 1 Queen Pull-Down, 1 Single Pull-Down"
+      }
+    ],
+    "dues": {
+      "2025": 9.0572,
+      "2026": 9.4553
+    }
+  },
+  {
+    "id": "saratoga-springs-resort",
+    "name": "Disney's Saratoga Springs Resort & Spa",
+    "shortName": "SSR",
+    "location": "walt-disney-world",
+    "theme": "1800s upstate New York equestrian",
+    "expirationYear": 2054,
+    "roomTypes": [
+      {
+        "id": "studio-standard",
+        "name": "Deluxe Studio",
+        "view": "Standard",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Pull-Down"
+      },
+      {
+        "id": "studio-preferred",
+        "name": "Deluxe Studio",
+        "view": "Preferred",
+        "sleeps": 4,
+        "bedConfig": "1 Queen, 1 Double Pull-Down"
+      },
+      {
+        "id": "1br-standard",
+        "name": "1-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "1br-preferred",
+        "name": "1-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 5,
+        "bedConfig": "1 King, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-standard",
+        "name": "2-Bedroom Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "1 King, 1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "2br-preferred",
+        "name": "2-Bedroom Villa",
+        "view": "Preferred",
+        "sleeps": 9,
+        "bedConfig": "1 King, 1 Queen, 1 Queen Pull-Down, 1 Single Pull-Down"
+      },
+      {
+        "id": "3br-standard",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Standard",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "3br-preferred",
+        "name": "3-Bedroom Grand Villa",
+        "view": "Preferred",
+        "sleeps": 12,
+        "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa"
+      },
+      {
+        "id": "treehouse-villa",
+        "name": "Treehouse Villa",
+        "view": "Standard",
+        "sleeps": 9,
+        "bedConfig": "2 Queens, 1 Bunk Bed, 1 Queen Sleeper Sofa, 1 Twin Sleeper Chair"
+      }
+    ],
+    "dues": {
+      "2025": 8.5394,
+      "2026": 9.1877
+    }
+  },
+  {
+    "id": "vero-beach",
+    "name": "Disney's Vero Beach Resort",
+    "shortName": "VBR",
+    "location": "vero-beach",
+    "theme": "Old Florida east coast beach resort",
+    "expirationYear": 2042,
+    "roomTypes": [
+      { "id": "inn-standard", "name": "Deluxe Inn Room", "view": "Standard", "sleeps": 4, "bedConfig": "2 Queens" },
+      { "id": "inn-ocean", "name": "Deluxe Inn Room", "view": "Ocean", "sleeps": 4, "bedConfig": "2 Queens" },
+      { "id": "studio", "name": "Deluxe Studio", "view": "Standard", "sleeps": 4, "bedConfig": "1 Queen, 1 Double Sleeper Sofa" },
+      { "id": "1br", "name": "1-Bedroom Villa", "view": "Standard", "sleeps": 5, "bedConfig": "1 King, 1 Queen Sleeper Sofa, 1 Sleeper Chair" },
+      { "id": "2br", "name": "2-Bedroom Villa", "view": "Standard", "sleeps": 9, "bedConfig": "1 King, 1 Queen, 1 Queen Sleeper Sofa, 1 Double Sleeper Sofa, 1 Sleeper Chair" },
+      { "id": "3br", "name": "3-Bedroom Beach Cottage", "view": "Standard", "sleeps": 12, "bedConfig": "1 King, 4 Queens, 1 Queen Sleeper Sofa" }
+    ],
+    "dues": {
+      "2025": 14.3026,
+      "2026": 14.8939
+    }
+  }
+]
