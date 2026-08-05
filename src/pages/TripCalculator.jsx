@@ -130,7 +130,7 @@ export default function TripCalculator() {
               }}
             >
               {availableResorts.map(resort => (
-                <option key={resort.id} value={resort.id}>{resort.shortName}</option>
+                <option key={resort.id} value={resort.id}>{resort.name}</option>
               ))}
             </select>
           </div>
@@ -244,7 +244,7 @@ export default function TripCalculator() {
                   {formatCurrency(cashEquivalent.duesCost)}
                 </div>
                 <div style={{ fontSize: 'var(--text-xs)', color: 'var(--color-text-muted)' }}>
-                  Based on {selectedResort.shortName} 2025 dues
+                  Based on {selectedResort.name} 2025 dues
                 </div>
               </div>
               <div>
@@ -339,7 +339,7 @@ export default function TripCalculator() {
           {/* View Chart Link */}
           <div style={{ marginTop: 'var(--space-6)', textAlign: 'center' }}>
             <Link to={`/charts/${selectedResortId}`} className="btn btn-secondary">
-              View Full {selectedResort?.shortName} Point Chart <ArrowRight size={14} />
+              View Full {selectedResort?.name} Point Chart <ArrowRight size={14} />
             </Link>
           </div>
         </div>

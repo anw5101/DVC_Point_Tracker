@@ -57,7 +57,7 @@ export default function PointCharts() {
                 </div>
               </div>
               <div className="resort-card-body">
-                <div className="resort-card-name">{resort.shortName}</div>
+                <div className="resort-card-name">{resort.name}</div>
                 <div className="resort-card-meta">
                   <span className="badge badge-blue">
                     <MapPin size={10} />
